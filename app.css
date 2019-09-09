@@ -8,6 +8,12 @@ html, body {
 	max-width: 95%;
 }
 
+.info-hint {
+	margin: 20px auto;
+	font-size: 80%;
+	color: #fff;
+}
+
 button {
 	border: 1px solid #000;
 	border-radius: 5px;
@@ -39,3 +45,17 @@ button.water {
 	color: #fff;
 }
 
+footer {
+	margin: 20px auto;
+	width: 420px;
+	max-width: 95%;
+}
+
+footer a, footer a:visited{
+	color: #e91e63;
+}
+
+footer .credits {
+	font-size: 70%;
+	color: #999;
+}
